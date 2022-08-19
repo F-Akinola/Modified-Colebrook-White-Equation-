@@ -1,5 +1,5 @@
 """
-Explicit reformation of the Colebrook-White equation for Turbulent flow friction
+Explicit reformulation of the Colebrook-White equation for Turbulent flow friction
 factor calculation.
 
 Equations developed by Sonnad & Goudar.
